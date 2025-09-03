@@ -346,5 +346,3 @@ Looking for a CLI mode? Using the -s/--source argument will make the run program
 -   [kier007](https://github.com/kier007): for improving the user experience
 -   [qitianai](https://github.com/qitianai): for multi-lingual support
 
--   All the wonderful users who helped make this project go viral by starring the repo ❤️
-
